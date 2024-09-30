@@ -10,3 +10,5 @@ pasti tetap semangat...
 ### belajar three way merge - develop
 
 commit pertama dari branch ParentKasyfil
+
+commit kedua dari branch ChildKasyfil
