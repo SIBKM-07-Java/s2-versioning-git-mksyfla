@@ -14,7 +14,17 @@ commit pertama dari branch ParentKasyfil
 commit kedua dari branch ChildKasyfil
 
 branch ChildKasyfil
-![Branch ChildKasyfil](img/1-fast-forward-branch-ChildKasyfil.png)
+![](img/1-fast-forward-branch-ChildKasyfil.png)
 
 git log
-![Branch ChildKasyfil](img/2-git-log-branch-ChildKasyfil.png)
+![](img/2-git-log-branch-ChildKasyfil.png)
+
+
+change to ParentKasyfil
+![](img/3-change-to-ParentKasyfil.png)
+
+merge ChildKasyfil to ParentKasyfil
+![](img/4-merge-to-ParentKasyfil.png)
+
+git log
+![](img/5-git-log-branch-ParentKasyfil.png)
