@@ -10,3 +10,5 @@ pasti tetap semangat...
 ### belajar three way merge - develop
 
 [MainKasyfil] seharusnya conflict
+[MainKasyfil] seharusnya dua conflict
+[MainKasyfil] seharusnya tiga conflict
