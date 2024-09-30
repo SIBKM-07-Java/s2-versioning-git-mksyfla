@@ -9,6 +9,9 @@ pasti tetap semangat...
 
 ### belajar three way merge - develop
 
+[ChildTWMKasyfil] ini seharusnya conflict sama MainKasyfil
+
+[ChildTWMKasyfil] ini seharusnya conflict juga sama MainKasyfil
 [MainKasyfil] seharusnya conflict
 [MainKasyfil] seharusnya dua conflict
 [MainKasyfil] seharusnya tiga conflict
