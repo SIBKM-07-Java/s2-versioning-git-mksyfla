@@ -12,3 +12,6 @@ pasti tetap semangat...
 [ChildTWMKasyfil] ini seharusnya conflict sama MainKasyfil
 
 [ChildTWMKasyfil] ini seharusnya conflict juga sama MainKasyfil
+[MainKasyfil] seharusnya conflict
+[MainKasyfil] seharusnya dua conflict
+[MainKasyfil] seharusnya tiga conflict
