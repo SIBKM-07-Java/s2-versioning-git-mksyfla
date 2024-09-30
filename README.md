@@ -15,3 +15,28 @@ pasti tetap semangat...
 [MainKasyfil] seharusnya conflict
 [MainKasyfil] seharusnya dua conflict
 [MainKasyfil] seharusnya tiga conflict
+
+add text in branch MainKasyfil
+![](img/1-add-text-MainKasyfil.png);
+
+add text in branch ChildTWMKasyfil
+![](img/2-add-text-ChildTWMKasyfil.png);
+
+push branch ChildTWMKasyfil to GitHub
+![](img/3-push-ChildTWMKasyfil-to-GitHub.png)
+
+push branch MainKasyfil to GitHub
+![](img/4-push-MainKasyfil-to-GitHub.png)
+
+
+pull MainKasyfil to ChildTWMKasyfil because of conflict
+![](img/6-pull-origin-because-of-conflict.png)
+
+status of fixing conflict
+![](img/7-status-of-fixing-conflict.png)
+
+comitting the conflict
+![](img/8-comitting-the-conflict.png)
+
+pushing the fix conflict ChildTWMKasyfil to GitHub
+![](img/9-pushing-the-fix-conflict-ChildTWMKasyfil-to-GitHub.png)
