@@ -12,3 +12,9 @@ pasti tetap semangat...
 commit pertama dari branch ParentKasyfil
 
 commit kedua dari branch ChildKasyfil
+
+branch ChildKasyfil
+![Branch ChildKasyfil](img/1-fast-forward-branch-ChildKasyfil.png)
+
+git log
+![Branch ChildKasyfil](img/2-git-log-branch-ChildKasyfil.png)
