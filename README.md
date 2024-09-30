@@ -10,3 +10,5 @@ pasti tetap semangat...
 ### belajar three way merge - develop
 
 [ChildTWMKasyfil] ini seharusnya conflict sama MainKasyfil
+
+[ChildTWMKasyfil] ini seharusnya conflict juga sama MainKasyfil
