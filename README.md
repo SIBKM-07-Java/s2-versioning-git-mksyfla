@@ -10,3 +10,6 @@ pasti tetap semangat...
 ### belajar three way merge - develop
 
 # COMMIT PERTAMA DARI BRANCH MainKasyfilRevisi
+
+# COMMIT KEDUA DARI BRANCH MainKasyfilRevisi
+# KEDUA LINE INI SEHARUSNYA CONFLICT DENGAN BRANCH ChildTWMKasyfilRevisi
